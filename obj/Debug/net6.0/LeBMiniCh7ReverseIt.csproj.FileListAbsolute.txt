@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/bin/Debug/net6.0/LeBMiniCh7ReverseIt
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/bin/Debug/net6.0/LeBMiniCh7ReverseIt.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/bin/Debug/net6.0/LeBMiniCh7ReverseIt.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/bin/Debug/net6.0/LeBMiniCh7ReverseIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/bin/Debug/net6.0/LeBMiniCh7ReverseIt.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/refint/LeBMiniCh7ReverseIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/LeBMiniCh7ReverseIt.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/Debug/net6.0/ref/LeBMiniCh7ReverseIt.dll
