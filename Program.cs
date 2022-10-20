@@ -1,4 +1,4 @@
-﻿//Cuong Brandon Le
+﻿//Brandon Le
 //10-20-22
 //Mini Challenge 7 - Reverse It
 //Project will take users input and print it back into the terminal in reverse.
@@ -7,7 +7,7 @@
 //Also has data validation until the user properly enters in yes or no at the end.
 
 
-
+Console.Clear();
 string playAgain = "YES";
 
 
