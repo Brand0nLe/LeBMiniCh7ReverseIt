@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carol\\.nuget\\packages\\": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carol\\LeBMiniCh7ReverseIt\\LeBMiniCh7ReverseIt.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/LeBMiniCh7ReverseIt.csproj",
       "projectName": "LeBMiniCh7ReverseIt",
-      "projectPath": "C:\\Users\\carol\\LeBMiniCh7ReverseIt\\LeBMiniCh7ReverseIt.csproj",
-      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carol\\LeBMiniCh7ReverseIt\\obj\\",
+      "projectPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/LeBMiniCh7ReverseIt.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh7ReverseIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

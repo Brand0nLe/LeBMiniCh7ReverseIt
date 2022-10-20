@@ -44,14 +44,14 @@ while (playAgain == "YES")
     Console.WriteLine("Do you want to play again? (YES/NO)");
     playAgain = Console.ReadLine().ToUpper();
 
-
-    if (playAgain == "NO")
-    {
-        Console.WriteLine("That was fun! Come back any time.");
-    }
     while (playAgain != "YES" && playAgain != "NO")
     {
         Console.WriteLine("INVALID ENTRY! Please enter YES or NO.");
         playAgain = Console.ReadLine().ToUpper();
     }
+    if (playAgain == "NO")
+    {
+        Console.WriteLine("That was fun! Come back any time.");
+    }
+
 }
