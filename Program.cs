@@ -5,14 +5,16 @@
 //Play again option available also and the play again option. There's data validation for when the user inputs
 //letters instead of numbers, it will prompt them to input numbers.
 //Also has data validation until the user properly enters in yes or no at the end.
+//Peer Review: Peer Review: Caroline Hana - I really liked how organized and clean the output of the code looked. The validations were good and I had no issues 
+//with the code everything looks great. The only thing I would add is a clear at the beggining so it looks a little cleaner. good job!
 
 
-Console.Clear();
 string playAgain = "YES";
 
 
 while (playAgain == "YES")
 {
+    Console.Clear();
     int validNum = 0;
     string userInput = "";
     string reversedOutput = "";
